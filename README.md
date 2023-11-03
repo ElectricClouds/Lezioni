@@ -1,2 +1,2 @@
 # Lezioni
-Repo delle lezioni del corso tecnico informatico
+Report delle lezioni del corso tecnico informatico
