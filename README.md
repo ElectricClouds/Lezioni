@@ -1,5 +1,5 @@
 # Lezioni
-Report delle lezioni del corso tecnico informatico
+Repo delle lezioni del corso tecnico informatico
 
 ## Elenco delle lezioni
   - Lezione 1: basi
