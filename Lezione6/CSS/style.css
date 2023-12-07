@@ -1,0 +1,20 @@
+#demo{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 150px;
+}
+
+#feedback{
+    width: 200px;
+    height: 200px;
+    background-color: indigo;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 150px;
+    color: chartreuse;
+}
